@@ -1,0 +1,15 @@
+.footer {
+    color: aliceblue;
+    padding: 10px;
+}
+
+.footer a {
+    color: aliceblue;
+    padding: 10px;
+}
+
+.footer li {
+    color: aliceblue;
+    padding: 10px;
+    list-style: none;
+}
